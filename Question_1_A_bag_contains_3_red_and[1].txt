@@ -1,19 +1,47 @@
  Question 1: A bag contains 3 red and 2 blue balls. Two balls are drawn one
 after the other without replacement. What is the probability that the second ball
 drawn is red given that the first ball drawn was red?
+            total balls = 3+2=5
+            after removing one red = 2+2=4
+            probability = 2/4 = 1/2
+
 
 2. Question 2: A school has 60% male and 40% female students. 30% of the
 male students and 20% of the female students are in the honor roll. What is the
-probability that a randomly chosen honor roll student is male?
+probability that a randomly chosen honor roll student is male?         
+              no. of male students = 60
+              no. of female students = 40
+              male honor role of students = 30% 0f 60 =18
+              female honor role of studemts = 20% 0f 40 = 8
+              total honor role students = 18 + 8 = 26
+              probability = 18/26 = 9/13
+
 
 3. Question 3: In a deck of 52 cards, what is the probability that a card drawn is a
 spade given that it is a face card?
+               total cards = 52
+                total face cards = 12
+               spade face cards =3
+               probability(spade/face cards)= 3/12 =1/4
 
 4. Question 4: A factory has two machines. Machine A produces 70% of the
 items and has a defect rate of 5%. Machine B produces 30% of the items and
 has a defect rate of 10%. What is the probability that an item is defective given
 that it was produced by Machine A?
+              machine A produces 70% 0f items = P(A)= 0.7
+              Defect rate of machine A =P(D/A)=0.05
+              Machine B produces 30% of items = P(B)=0.3
+              Defect rate of machine B = P(D/B) =0.10
+              P(D)=P(D/A).P(A)+P(D/B).P(B)=0.065
+              P(A/D)=(P(D/A).P(A))/P(D)=0.5385=53.85
+
 
 5. Question 5: If the probability that it will rain tomorrow is 0.3 and the probability
 that it will rain tomorrow given that it is cloudy today is 0.6, what is the
 probability that it will be cloudy today?
+              Rain = R
+              Cloudy = C
+              P(R)= 0.3
+              P(R/C)=0.6
+              P(R/C)=P(R intersection C)/P(C)
+              
