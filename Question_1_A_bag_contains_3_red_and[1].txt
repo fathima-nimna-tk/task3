@@ -1,0 +1,19 @@
+ Question 1: A bag contains 3 red and 2 blue balls. Two balls are drawn one
+after the other without replacement. What is the probability that the second ball
+drawn is red given that the first ball drawn was red?
+
+2. Question 2: A school has 60% male and 40% female students. 30% of the
+male students and 20% of the female students are in the honor roll. What is the
+probability that a randomly chosen honor roll student is male?
+
+3. Question 3: In a deck of 52 cards, what is the probability that a card drawn is a
+spade given that it is a face card?
+
+4. Question 4: A factory has two machines. Machine A produces 70% of the
+items and has a defect rate of 5%. Machine B produces 30% of the items and
+has a defect rate of 10%. What is the probability that an item is defective given
+that it was produced by Machine A?
+
+5. Question 5: If the probability that it will rain tomorrow is 0.3 and the probability
+that it will rain tomorrow given that it is cloudy today is 0.6, what is the
+probability that it will be cloudy today?
